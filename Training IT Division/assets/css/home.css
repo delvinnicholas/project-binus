@@ -1,0 +1,50 @@
+#background{
+    width: 100%;
+    position: relative;
+    z-index: -1;
+}
+.text{
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    color: #FFF;
+    text-align: center;
+}
+.text h1{
+    font-size: 4em;
+}
+.text h3{
+    font-size: 2em;
+}
+.text a{
+    text-decoration: none;
+    color: #FFF;
+}
+#car{
+    color: rgb(40, 40, 216);
+}
+#blue{
+    text-align: center;
+    background-color: rgb(40, 40, 216);
+    color: #FFF;
+    /* width: 60%; */
+    /* position: relative; */
+    /* border: 1px solid; */
+    /* display: inline-block; */
+    white-space: nowrap;
+}
+.startBox{
+    /* position: relative; */
+    /* text-align: center; */
+    /* width: 150px; */
+    margin-top: 20px;
+    padding: 15px 30px 15px 30px;
+    border: #FFF solid;
+    background-color: rgb(40, 40, 216);
+    color: #FFF;
+    font-size: 1.2em;
+}
+.startBox a{
+    text-decoration: none;
+    width: 100px;
+}

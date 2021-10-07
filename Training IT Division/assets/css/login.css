@@ -1,0 +1,32 @@
+.wrap-login{
+    padding: 50px;
+    justify-content: center;
+    text-align: center;
+    /* border: 5px solid; */
+}
+
+#email-login{
+    border: none;
+    border-bottom: 2px solid rgb(17, 17, 104);
+    padding: 15px 40px;
+    font-size: 16px;
+    text-align: center;
+}
+#password-login{
+    border: none;
+    border-bottom: 2px solid rgb(17, 17, 104);
+    padding: 15px 40px;
+    font-size: 16px;
+    text-align: center;
+}
+
+p{
+    font-size: 1.2em;
+}
+
+input[type=button]{
+    background-color: rgb(17, 17, 104);
+    border: none;
+    color: #fff;
+    padding: 10px 16px;
+}

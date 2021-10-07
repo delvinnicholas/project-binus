@@ -1,0 +1,53 @@
+#title{
+    text-align: center;
+    padding-top: 30px;
+    font-size: 2.8em;
+}
+.contactForm{
+    padding-top: 3%;
+    padding-bottom: 5%;
+    float: left;
+    width: 50%;
+    margin-left: 50px;
+    /* border: 1px solid; */
+    background-color: #f1f1f1c5;
+    /* padding-top: 20px; */
+}
+.contactInfo{
+    padding-top: 1%;
+    float: right;
+    width: 45%;
+    /* border: 1px solid red; */
+}
+.profile{
+    float: left;
+    padding-left: 10%;
+    padding-bottom: 40px;
+    width: 30%;
+    /* border: 1px solid purple; */
+}
+input[type="text"]{
+    padding: 6px 30px;
+    border: none;
+    /* background-color: #f1f1f1; */
+    border-bottom: 2px solid rgb(17,17,140);
+}
+.message{
+    padding-bottom: 20px;
+}
+textarea{
+    border: solid 2px rgb(17,17,140);
+}
+input[type="button"]{
+    background-color: rgb(17,17,140);
+    color: #fff;
+    padding: 6px 18px;
+}
+
+.contactInfo a{
+    text-decoration: none;
+    color: blue;
+}
+.contactInfo span{
+    font-weight: bold;
+}
